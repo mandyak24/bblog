@@ -1,0 +1,10 @@
+{
+    "name": "lenovo/tfg-def",
+    "type": false,
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\TfgDef\\": "src/"
+        }
+    },
+    "require": {}
+}
